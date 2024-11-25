@@ -28,7 +28,7 @@ Aplikasi e-commerce berbasis Laravel dengan fitur manajemen produk, keranjang be
 
 2. Masuk ke direktori proyek:
    ```
-   cd tokoku
+   cd toko-ana
    ```
 
 3. Install dependensi PHP:
