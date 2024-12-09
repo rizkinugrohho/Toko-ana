@@ -24,6 +24,7 @@ Aplikasi e-commerce berbasis Laravel dengan fitur manajemen produk, keranjang be
 
 1. Clone repositori:
    ```
+   git clone https://github.com/rizkinugrohho/toko-ana.git
    ```
 
 2. Masuk ke direktori proyek:
